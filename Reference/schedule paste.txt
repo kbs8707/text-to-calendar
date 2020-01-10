@@ -1,0 +1,127 @@
+
+Student Detail Schedule:
+ 	
+
+Winter 2020
+Jan 07, 2020 02:34 pm
+Transparent Image
+Info	This page displays detailed course schedule information based upon the selected Term. To view another Detailed Schedule that you may have, simply click here to select another Term.
+Total Credit Hours: 15.000
+
+Digital Systems - ELEE 2450U - 001
+Associated Term:	Winter 2020
+CRN:	73141
+Status:	**Web Registered** on Sep 13, 2019
+Assigned Instructor:	Nasim Moallemi
+Credits:	3.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	3:40 pm - 5:00 pm	T	University Pavilion UP1502	Jan 06, 2020 - Apr 04, 2020	Lecture	Nasim Moallemi (P)
+ 	3:40 pm - 5:00 pm	F	University Pavilion UP1502	Jan 06, 2020 - Apr 04, 2020	Lecture	Nasim Moallemi (P)
+
+Digital Systems - ELEE 2450U - 005
+Associated Term:	Winter 2020
+CRN:	73145
+Status:	**Web Registered** on Sep 13, 2019
+Assigned Instructor:	 
+Credits:	0.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010B	Jan 15, 2020 - Jan 15, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010A	Jan 15, 2020 - Jan 15, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010A	Jan 29, 2020 - Jan 29, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010B	Jan 29, 2020 - Jan 29, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010B	Feb 12, 2020 - Feb 12, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010A	Feb 12, 2020 - Feb 12, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010B	Mar 04, 2020 - Mar 04, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010A	Mar 04, 2020 - Mar 04, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010B	Mar 18, 2020 - Mar 18, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010A	Mar 18, 2020 - Mar 18, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010A	Apr 01, 2020 - Apr 01, 2020	Laboratory	TBA
+ W2	12:40 pm - 3:30 pm	W	Software and Informatics Resea 2010B	Apr 01, 2020 - Apr 01, 2020	Laboratory	TBA
+
+Digital Systems - ELEE 2450U - 007
+Associated Term:	Winter 2020
+CRN:	73147
+Status:	**Web Registered** on Sep 13, 2019
+Assigned Instructor:	 
+Credits:	0.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	2:10 pm - 3:30 pm	T	Software and Informatics Resea 3110	Jan 06, 2020 - Apr 04, 2020	Tutorial	TBA
+
+Engineering Economics - ENGR 3360U - 001
+Associated Term:	Winter 2020
+CRN:	70767
+Status:	**Web Registered** on Sep 12, 2019
+Assigned Instructor:	Ron Gavrin
+Credits:	3.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	5:10 pm - 6:30 pm	W	Science Building (UA) UA1350	Jan 06, 2020 - Apr 04, 2020	Lecture	Ron Gavrin (P)
+ 	5:10 pm - 6:30 pm	F	Science Building (UA) UA1350	Jan 06, 2020 - Apr 04, 2020	Lecture	Ron Gavrin (P)
+
+Introductory Sociology - SOCI 1000U - 002
+Associated Term:	Winter 2020
+CRN:	70484
+Status:	**Web Registered** on Jun 28, 2019
+Assigned Instructor:	Jordan Harel
+Credits:	3.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	6:40 pm - 9:30 pm	R	Science Building (UA) UA1350	Jan 06, 2020 - Apr 04, 2020	Lecture	Jordan Harel (P)
+
+Princip. of Softwre & Requir. - SOFE 2720U - 001
+Associated Term:	Winter 2020
+CRN:	73377
+Status:	**Web Registered** on Jun 28, 2019
+Assigned Instructor:	Ramiro Liscano
+Credits:	3.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	9:40 am - 11:00 am	W	Software and Informatics Resea 2060	Jan 06, 2020 - Apr 04, 2020	Lecture	Ramiro Liscano (P)
+ 	9:40 am - 11:00 am	F	Software and Informatics Resea 2060	Jan 06, 2020 - Apr 04, 2020	Lecture	Ramiro Liscano (P)
+
+Princip. of Softwre & Requir. - SOFE 2720U - 002
+Associated Term:	Winter 2020
+CRN:	73378
+Status:	**Web Registered** on Jun 28, 2019
+Assigned Instructor:	 
+Credits:	0.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ W1	2:10 pm - 5:00 pm	R	Science Building (UA) UA1220	Jan 09, 2020 - Jan 09, 2020	Laboratory	TBA
+ W1	2:10 pm - 5:00 pm	R	Science Building (UA) UA1220	Jan 23, 2020 - Jan 23, 2020	Laboratory	TBA
+ W1	2:10 pm - 5:00 pm	R	Science Building (UA) UA1220	Feb 06, 2020 - Feb 06, 2020	Laboratory	TBA
+ W1	2:10 pm - 5:00 pm	R	Science Building (UA) UA1220	Feb 27, 2020 - Feb 27, 2020	Laboratory	TBA
+ W1	2:10 pm - 5:00 pm	R	Science Building (UA) UA1220	Mar 12, 2020 - Mar 12, 2020	Laboratory	TBA
+ W1	2:10 pm - 5:00 pm	R	Science Building (UA) UA1220	Mar 26, 2020 - Mar 26, 2020	Laboratory	TBA
+
+Princip. of Softwre & Requir. - SOFE 2720U - 003
+Associated Term:	Winter 2020
+CRN:	73379
+Status:	**Registered** on Dec 04, 2019
+Assigned Instructor:	 
+Credits:	0.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	8:10 am - 9:30 am	M	Simcoe Building/J-Wing J127	Jan 06, 2020 - Apr 04, 2020	Tutorial	TBA
+
+Stats & Probability for Eng. - STAT 2800U - 002
+Associated Term:	Winter 2020
+CRN:	70248
+Status:	**Web Registered** on Sep 11, 2019
+Assigned Instructor:	Paula Di Cato
+Credits:	3.000
+Scheduled Meeting Times
+Week	Time	Days	Where	Date Range	Schedule Type	Instructors
+ 	12:40 pm - 2:00 pm	T	Business and IT Building (UB) UB2080	Jan 06, 2020 - Apr 04, 2020	Lecture	Paula Di Cato (P)
+ 	12:40 pm - 2:00 pm	R	Business and IT Building (UB) UB2080	Jan 06, 2020 - Apr 04, 2020	Lecture	Paula Di Cato (P)
+
+Return to Previous
+Transparent Image
+[ View Fee Assessment ]
+
+RELEASE: 8.7.1
+
+© 2020 Ellucian Company L.P. and its affiliates.
